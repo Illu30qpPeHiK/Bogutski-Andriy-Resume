@@ -35,7 +35,7 @@ body {
 
 /* Header and navigation */
 header {
-  background-color: rgba(255, 255, 255, 0.95);
+  background-color: rgba(255, 255, 255, 0.50);
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
   padding: 1.2rem 2rem;
